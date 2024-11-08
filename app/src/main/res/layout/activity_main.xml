@@ -24,6 +24,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="Pesquisar raça, idade"
+                android:layout_marginHorizontal="12dp"
                 android:drawableEnd="@android:drawable/ic_menu_search"
                 android:padding="12dp"
                 android:background="@drawable/search_background"

@@ -23,6 +23,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
+            android:layout_marginHorizontal="15dp"
             android:text="Nullam id auctor eros. Maecenas vitae massa non nisi placerat venenatis.
                  Mauris nec odio convallis, tempor arcu sed, sollicitudin ligula. Duis a lobortis neque,
                   a pretium ex. Nam neque metus, tempor sed venenatis vitae, pulvinar et quam. Pellentesque
@@ -60,6 +61,7 @@
         android:id="@+id/imageView2"
         android:layout_width="match_parent"
         android:layout_height="381dp"
+        android:layout_marginHorizontal="20dp"
         app:srcCompat="@drawable/mapa" />
 
     <LinearLayout
